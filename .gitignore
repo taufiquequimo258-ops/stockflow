@@ -1,0 +1,9 @@
+# Git Ignore para StockFlow
+.DS_Store
+Thumbs.db
+*.log
+*.sqlite
+config/database.local.php
+vendor/
+.idea/
+.vscode/
