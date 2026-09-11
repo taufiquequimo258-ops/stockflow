@@ -96,5 +96,5 @@ Aceda no navegador ao endereço:
 
 ## 📄 6. Repositório & Apresentação em Vídeo
 
-* **Link do Repositório GitHub:** `[INSERIR LINK DO GITHUB]`
+* **Link do Repositório GitHub:** https://github.com/taufiquequimo258-ops/stockflow.git
 * **Link do Vídeo de Demonstração (YouTube/Drive):** `[INSERIR LINK DO VÍDEO]`
