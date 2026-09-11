@@ -69,7 +69,7 @@ $csrfToken = Security::generateCsrfToken();
                 <label for="email" class="form-label fw-semibold">Endereço de E-mail</label>
                 <div class="input-group">
                     <span class="input-group-text bg-light"><i class="fa-solid fa-envelope text-muted"></i></span>
-                    <input type="email" class="form-control" id="email" name="email" placeholder="admin@stockflow.com" required autofocus>
+                    <input type="email" class="form-control" id="email" name="email" placeholder="seu.email@empresa.com" required autofocus>
                 </div>
             </div>
 
@@ -85,13 +85,6 @@ $csrfToken = Security::generateCsrfToken();
                 <i class="fa-solid fa-right-to-bracket me-2"></i>Iniciar Sessão
             </button>
         </form>
-
-        <div class="mt-4 p-3 bg-light rounded text-muted small">
-            <div class="fw-bold mb-1"><i class="fa-solid fa-key me-1"></i>Credenciais de Teste:</div>
-            <div><strong>Admin:</strong> admin@stockflow.com | password123</div>
-            <div><strong>Operador:</strong> operador@stockflow.com | password123</div>
-            <div><strong>Requisitante:</strong> maria@empresa.com | password123</div>
-        </div>
     </div>
 </div>
 
