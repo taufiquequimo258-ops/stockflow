@@ -1,7 +1,7 @@
 # StockFlow Enterprise — Sistema de Gestão de Inventário e Requisições
 
 > **Disciplina:** Desenvolvimento de Aplicativos Web Empresariais  
-> **Autor:** [SEU NOME COMPLETO]  
+> **Autor:** Egino Agostinho Macia  
 > **Estado do Projeto:** Concluído / 100% Funcional  
 
 ---
