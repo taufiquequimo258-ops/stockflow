@@ -97,4 +97,8 @@ Aceda no navegador ao endereço:
 ## 📄 6. Repositório & Apresentação em Vídeo
 
 * **Link do Repositório GitHub:** https://github.com/eginoagostinho2/stockflow
-* **Link do Vídeo de Demonstração (YouTube/Drive):** `[INSERIR LINK DO VÍDEO]`
+* **Vídeo de Demonstração (Ficheiro no Repositório):** [Assista ao Vídeo de Apresentação (video_apresentacao.webm)](./video_apresentacao.webm)
+
+<p align="center">
+  <video src="video_apresentacao.webm" controls width="100%" poster="https://via.placeholder.com/800x450.png?text=Demonstra%C3%A7%C3%A3o+StockFlow"></video>
+</p>
